@@ -49,6 +49,9 @@ MIT Copyright (c) 2025 epic-murloc
 
 ## 🍩 Донаты
 Bitcoin: 15vXX3mrZkaxYJ1wY6E6gRPybCvLFhMkv1
+
 USDT ERC20: 0x34d03eb5b02a64d218e16c76e8d7ba87a36a5d46
+
 USDT TRC20: TDD7sDi5jDYDEKS71AStL2s75AXZXHMtDW
+
 TON: UQCYD7v1DgBmkv2zo3vWTQGe8-R4XzP4UV8-DlmQEPDP60vP
