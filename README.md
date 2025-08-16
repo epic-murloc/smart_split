@@ -1,4 +1,4 @@
-# split
+# Smart Split
 
 A new Flutter project.
 
