@@ -1,16 +1,32 @@
-# Smart Split
+# Smart Split 💸
+**Приложение для учета общих расходов с друзьями и коллегами**  
+[![GitHub release](https://img.shields.io/github/v/release/epic-murloc/smart_split?style=flat-square)](https://github.com/epic-murloc/smart_split/releases)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
-A new Flutter project.
+![App Banner](https://i.postimg.cc/Y0sX8XdC/icon.png) <!-- Замените на реальный баннер -->
 
-## Getting Started
+Удобное решение для разделения счетов в путешествиях, совместных покупках и других групповых активностях. Без регистрации, с локальным хранением данных.
 
-This project is a starting point for a Flutter application.
+## ✨ Возможности
+✅ Добавление участников и групповых расходов  
+✅ Автоматический расчет долгов между участниками  
+✅ Гибкие настройки валюты  
+✅ Архивирование расходов (без полного удаления)  
+✅ Красивый Material Design 3 интерфейс  
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Скриншоты
+| ![Главный экран](https://i.imgur.com/placeholder1.png) | ![Добавление расхода](https://i.imgur.com/placeholder2.png) | ![Расчет долгов](https://i.imgur.com/placeholder3.png) |
+|-------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------|
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📥 Установка
+### Скачать APK
+Последнюю версию можно установить через [Releases](https://github.com/epic-murloc/smart_split/releases/latest):
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![QR-код](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/epic-murloc/smart_split/releases/latest/download/smart_split.apk)](https://github.com/epic-murloc/smart_split/releases/latest)
+
+### Сборка из исходников
+```bash
+git clone https://github.com/epic-murloc/smart_split.git
+cd smart_split
+flutter pub get
+flutter run
